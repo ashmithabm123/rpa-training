@@ -1,0 +1,8 @@
+2026-09-22 09:00:01 INFO Application started
+2026-09-22 09:01:15 INFO User logged in
+2026-09-22 09:05:20 ERROR Database connection failed
+2026-09-22 09:06:10 INFO Retrying connection
+2026-09-22 09:07:30 ERROR Unable to connect to database
+2026-09-22 09:10:00 INFO Application running
+2026-09-22 09:15:45 ERROR File not found
+2026-09-22 09:20:00 INFO Process completed
